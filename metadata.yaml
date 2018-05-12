@@ -1,0 +1,27 @@
+_repo: George-Borrow-in-East-Anglia_27865
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dutt, William A. (William Alfred)
+    birthdate: 1870
+    deathdate: 1939
+    gutenberg_agent_id: '32975'
+    url: http://www.gutenberg.org/2009/agents/32975
+description: ''
+gutenberg_issued: '2009-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27865'
+  lccn: '18011573'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Borrow, George, 1803-1881'
+- !lcc 'PR'
+title: George Borrow in East Anglia
+url: http://www.gutenberg.org/ebooks/27865
